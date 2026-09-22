@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "stealme.aternos.me",
-    "port":43632,
-    "version": "26.3"
+    "port": 43632,
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
